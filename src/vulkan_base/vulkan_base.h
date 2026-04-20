@@ -1,0 +1,8 @@
+//
+// Created by tobia on 1/27/2026.
+//
+
+#ifndef PROJECT_ODIN_VULKAN_BASE_H
+#define PROJECT_ODIN_VULKAN_BASE_H
+
+#endif //PROJECT_ODIN_VULKAN_BASE_H
